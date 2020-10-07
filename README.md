@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://github.com/marcosTenorio/ecoleta/blob/master/frontend/src/assets/logo.svg" width="300px"/>
 </div>
-________________________________________________________________________________________________________________
+
 
 <p align="center">
   <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
